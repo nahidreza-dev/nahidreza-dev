@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nahid Reza</h1>
+<h3 align="center">🚀 Conversion-Focused WordPress Developer</h3>
 
-<!--
-**nahidreza-dev/nahidreza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💼 I build high-performance WordPress websites that are fast, SEO-ready, and built to convert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My Expertise:
+✔ High-Converting Landing Pages  
+✔ Affiliate & Coupon Websites  
+✔ WooCommerce Stores  
+✔ SEO-Optimized Business Sites  
+✔ Website Speed Optimization  
+✔ Hosting & Cloudflare Setup  
+
+---
+
+## ⚡ What Makes My Work Different?
+• Clean & scalable structure  
+• Core Web Vitals optimization  
+• Conversion-driven layouts  
+• Business-focused development  
+
+---
+
+🌐 Website: https://techsilo24.com  
+📩 Email: nahidreza.dev@gmail.com  
+
+---
+
+⭐ “Build fast. Rank higher. Convert better.”
