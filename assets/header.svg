@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06070D"/><stop offset="1" stop-color="#0E1226"/></linearGradient>
+<radialGradient id="glow" cx="0.85" cy="0" r="0.7"><stop offset="0" stop-color="#4D6BFF" stop-opacity=".55"/><stop offset="1" stop-color="#4D6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx="0" cy="1" r="0.6"><stop offset="0" stop-color="#7850FF" stop-opacity=".25"/><stop offset="1" stop-color="#7850FF" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern>
+<style>
+.t{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+.n{font-size:64px;font-weight:800;fill:#fff;letter-spacing:-2px}
+.o{font-size:64px;font-weight:800;fill:none;stroke:#fff;stroke-opacity:.8;stroke-width:1.4;letter-spacing:-2px}
+.s{font-size:22px;fill:#C4C9DE}
+.c{font-size:15px;fill:#9AA1BD;letter-spacing:2px}
+.ul{stroke-dasharray:270;stroke-dashoffset:270;animation:d 1.4s .6s cubic-bezier(.2,.75,.1,1) forwards}
+.fade{opacity:0;animation:f 1s .2s forwards}
+.f2{opacity:0;animation:f 1s .9s forwards}
+.dot{animation:p 2s ease-out infinite;transform-origin:72px 78px}
+.flow{stroke-dasharray:4 14;animation:m 1.6s linear infinite}
+@keyframes d{to{stroke-dashoffset:0}}@keyframes f{to{opacity:1}}@keyframes p{0%{opacity:.9;transform:scale(1)}100%{opacity:0;transform:scale(3)}}@keyframes m{to{stroke-dashoffset:-36}}
+</style>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+<rect width="1200" height="320" rx="22" fill="url(#glow)"/>
+<rect width="1200" height="320" rx="22" fill="url(#glow2)"/>
+<g class="fade">
+<circle cx="72" cy="78" r="5" fill="#22C55E"/><circle class="dot" cx="72" cy="78" r="5" fill="none" stroke="#22C55E" stroke-width="1.5"/>
+<text class="t c" x="88" y="83">OPEN FOR PROJECTS · NAHIDREZA.COM</text>
+<text class="t n" x="64" y="160">Ideas <tspan class="o">into</tspan> systems.</text>
+<path class="ul" d="M362 178 C 440 170, 540 168, 614 174" fill="none" stroke="#4D6BFF" stroke-width="6" stroke-linecap="round"/>
+</g>
+<g class="f2">
+<text class="t s" x="64" y="226">Nahid Reza · SaaS, full automation, WordPress and growth</text>
+<text class="t c" x="64" y="266">BANGLADESH (GMT+6) · WORKING WITH CLIENTS WORLDWIDE</text>
+</g>
+<g class="f2" transform="translate(860 70)" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif">
+<rect x="0" y="0" width="150" height="40" rx="10" fill="#0E1226" stroke="#2E3560"/><text x="16" y="25" font-size="15" fill="#fff">Website</text>
+<rect x="0" y="56" width="150" height="40" rx="10" fill="#0E1226" stroke="#2E3560"/><text x="16" y="81" font-size="15" fill="#fff">Payments</text>
+<rect x="0" y="112" width="150" height="40" rx="10" fill="#161D45" stroke="#4D6BFF"/><text x="16" y="137" font-size="15" fill="#fff">Automation</text>
+<rect x="196" y="56" width="120" height="40" rx="10" fill="#fff"/><text x="214" y="81" font-size="15" font-weight="700" fill="#0A0C14">Revenue</text>
+<path class="flow" d="M150 20 C 175 20, 175 76, 196 76" fill="none" stroke="#6E88FF" stroke-width="2.5"/>
+<path class="flow" d="M150 76 L 196 76" fill="none" stroke="#6E88FF" stroke-width="2.5"/>
+<path class="flow" d="M150 132 C 175 132, 175 76, 196 76" fill="none" stroke="#6E88FF" stroke-width="2.5"/>
+</g>
+</svg>
