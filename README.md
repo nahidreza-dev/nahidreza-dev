@@ -76,6 +76,15 @@ I'm a systems, automation and growth developer based in **Bangladesh (GMT+6)**, 
 
 ---
 
+## 📂 Projects on GitHub
+
+| Project | What it is |
+|---|---|
+| [**booking-system**](https://github.com/nahidreza-dev/booking-system) | Open-source "book a call" page on Cloudflare Workers + D1: visitor time zones, no double booking, email invites, 24h and 1h reminders. MIT licensed. |
+| [**goautositeai-case-study**](https://github.com/nahidreza-dev/goautositeai-case-study) | How GoAutoSiteAI was designed and built: architecture diagram, screenshots, hard problems solved and verified results. |
+
+---
+
 ## 🛠️ How I work
 
 ```text
