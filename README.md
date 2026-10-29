@@ -36,7 +36,7 @@ I'm a systems, automation and growth developer based in **Bangladesh (GMT+6)**, 
 | 🖥️ | **Website + client dashboard** | Sign-up, customer area, payments in one or more currencies |
 | 🔌 | **Custom WordPress plugins** | Built to spec, licensed per site, self-updating |
 | ⚙️ | **Full automation** | Content, payment to access, lead follow-up, reports, alerts |
-| 🛒 | **Online stores** | Storefront, AI customer replies, auto courier booking, owner dashboard, Bangladesh and worldwide payments |
+| 🛒 | **Online stores** | Storefront, AI customer replies, auto courier booking, owner dashboard, Bangladesh and worldwide payments, then SEO, ads and marketing after launch |
 | 📅 | **Booking systems** | Visitor time zones, no double booking, email + Telegram reminders |
 | 📈 | **Growth** | Technical SEO, Google Ads, Facebook & Instagram Ads, affiliate marketing |
 
