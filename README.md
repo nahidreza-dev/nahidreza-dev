@@ -18,7 +18,7 @@
 
 > **Bring me any digital business idea. I build the whole system behind it, automate it so it runs itself, then bring the customers.**
 
-I'm a systems, automation and growth developer based in **Bangladesh (GMT+6)**, working directly with clients worldwide in **English and Bengali**. I build and run my own products, so everything I offer a client has been tested on a real business first.
+I'm a systems, automation and growth developer working remotely with clients worldwide, across US, UK, European and Asian time zones. I build and run my own products, so everything I offer a client has been tested on a real business first.
 
 - 🚀 **Founder of [GoAutoSiteAI](https://goautositeai.com)**, an AI platform that runs WordPress websites on autopilot
 - 🛒 **New: an online store that runs itself.** [Try the live demo](https://nahidreza.com/demo/store) · [watch the 1-minute tour](https://nahidreza.com/ecommerce#tour)
@@ -36,7 +36,7 @@ I'm a systems, automation and growth developer based in **Bangladesh (GMT+6)**, 
 | 🖥️ | **Website + client dashboard** | Sign-up, customer area, payments in one or more currencies |
 | 🔌 | **Custom WordPress plugins** | Built to spec, licensed per site, self-updating |
 | ⚙️ | **Full automation** | Content, payment to access, lead follow-up, reports, alerts |
-| 🛒 | **Online stores** | Storefront, AI customer replies, auto courier booking, owner dashboard, Bangladesh and worldwide payments, then SEO, ads and marketing after launch |
+| 🛒 | **Online stores** | Storefront, AI customer replies, auto courier booking, owner dashboard, local and worldwide payments, then SEO, ads and marketing after launch |
 | 📅 | **Booking systems** | Visitor time zones, no double booking, email + Telegram reminders |
 | 📈 | **Growth** | Technical SEO, Google Ads, Facebook & Instagram Ads, affiliate marketing |
 
@@ -51,7 +51,7 @@ I'm a systems, automation and growth developer based in **Bangladesh (GMT+6)**, 
 **An AI platform that runs a WordPress website on autopilot.** It researches, writes, publishes, optimises and promotes SEO articles, while the owner runs customers, payments and support from one Admin Center.
 
 - **5 AI Writers** (Blog, Coupon, Affiliate, AdSense, Health) + **13 Bonus Tools**
-- **Payments:** international cards, plus bKash, Nagad and Rocket for Bangladesh
+- **Payments:** international cards, plus local wallets such as bKash, Nagad and Rocket
 - **Customer dashboard** in 9 languages, **articles** in 29 languages
 - **Live chat** with AI first, then a real team member
 - **Release Center:** one click updates every customer's site, with rollback
