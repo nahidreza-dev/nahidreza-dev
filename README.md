@@ -4,10 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1400&color=4D6BFF&center=true&vCenter=true&width=860&lines=I+build+the+whole+system+behind+a+digital+business;Websites+%C2%B7+client+dashboards+%C2%B7+payments+%C2%B7+admin+centers;Full+automation%3A+the+work+your+team+repeats%2C+done+by+the+system;Founder+of+GoAutoSiteAI+%E2%80%94+an+AI+SaaS+for+WordPress;Then+I+bring+the+customers%3A+SEO%2C+Google+Ads%2C+Facebook+Ads" alt="What I do" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nahidreza.com-4D6BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nahidreza.com)
-[![Book a call](https://img.shields.io/badge/Book_a_free_call-30_min-06070D?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://nahidreza.com/book)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nahidreza.com-4D6BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nahidreza.com/?utm_source=github&utm_campaign=nr-readme)
+[![Book a call](https://img.shields.io/badge/Book_a_free_call-30_min-06070D?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://nahidreza.com/book?utm_source=github&utm_campaign=nr-readme)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c2cdd081f250bfc8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goautositeai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahidreza-dev/)
 [![Email](https://img.shields.io/badge/Email-hello@nahidreza.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@nahidreza.com)
 
 </div>
@@ -52,7 +52,7 @@ I'm a systems, automation and growth developer working remotely with clients wor
 
 - **5 AI Writers** (Blog, Coupon, Affiliate, AdSense, Health) + **13 Bonus Tools**
 - **Payments:** international cards, plus local wallets such as bKash, Nagad and Rocket
-- **Customer dashboard** in 9 languages, **articles** in 29 languages
+- **Website and dashboard:** English + বাংলা, **articles** in 29 languages
 - **Live chat** with AI first, then a real team member
 - **Release Center:** one click updates every customer's site, with rollback
 - **Self-healing job queue:** retries failures, refunds credits automatically
@@ -152,7 +152,7 @@ Discover  →  Plan & scope  →  Design  →  Build  →  Test  →  Launch  �
 
 ### Have an idea? Let's turn it into a system.
 
-[![Book a free call](https://img.shields.io/badge/Book_a_free_30--minute_call-4D6BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://nahidreza.com/book)
+[![Book a free call](https://img.shields.io/badge/Book_a_free_30--minute_call-4D6BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://nahidreza.com/book?utm_source=github&utm_campaign=nr-readme)
 [![Send project details](https://img.shields.io/badge/Send_project_details-06070D?style=for-the-badge&logo=maildotru&logoColor=white)](https://nahidreza.com/#contact)
 
 <sub>Most client work is private, so the code lives in client repositories. The products and results above are live and checkable.</sub>
