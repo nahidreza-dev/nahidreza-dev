@@ -21,7 +21,7 @@
 I'm a systems, automation and growth developer working remotely with clients worldwide, across US, UK, European and Asian time zones. I build and run my own products, so everything I offer a client has been tested on a real business first.
 
 - 🚀 **Founder of [GoAutoSiteAI](https://goautositeai.com)**, an AI platform that runs WordPress websites on autopilot
-- 🛍️ **New in GoAutoSiteAI: AI Store builder.** Snap a photo, set a price, and your online store is ready. [See it](https://goautositeai.com/store-builder/) · [10 live demo stores](https://goautositeai.com/store-builder/#designs)
+- 🛍️ **New in GoAutoSiteAI: AI Store builder.** Snap a photo, set a price, and your online store is ready. [See it](https://goautositeai.com/store-builder/) · [10 live demo stores](https://goautositeai.com/store-builder/#designs) · [How I built it](https://github.com/nahidreza-dev/goautositeai-store)
 - 🛒 **For clients: an online store that runs itself.** [Try the live demo](https://nahidreza.com/demo/store) · [watch the 1-minute tour](https://nahidreza.com/ecommerce#tour)
 - 🧪 **Running my own live sites**, where every SEO, ads and automation method is tested first
 - ✍️ **Writing about real builds** on [nahidreza.com/blog](https://nahidreza.com/blog)
@@ -88,6 +88,7 @@ I'm a systems, automation and growth developer working remotely with clients wor
 |---|---|
 | [**booking-system**](https://github.com/nahidreza-dev/booking-system) | Open-source "book a call" page on Cloudflare Workers + D1: visitor time zones, no double booking, email invites, 24h and 1h reminders. MIT licensed. |
 | [**online-store-automation**](https://github.com/nahidreza-dev/online-store-automation) | An online store that runs itself: AI replies, confirmation calls, courier booking and an 11-section owner dashboard. Screenshots, features and a [live demo](https://nahidreza.com/demo/store). |
+| [**goautositeai-store**](https://github.com/nahidreza-dev/goautositeai-store) | **New:** GoAutoSiteAI Store, an AI e-commerce builder. How it was designed and built: screenshots, architecture, hard problems solved and real tests. [10 live demo stores](https://goautositeai.com/store-builder/#designs). |
 | [**goautositeai-case-study**](https://github.com/nahidreza-dev/goautositeai-case-study) | How GoAutoSiteAI was designed and built: architecture diagram, screenshots, the new AI Store builder, hard problems solved and verified results. |
 
 ---
